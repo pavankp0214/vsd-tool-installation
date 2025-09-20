@@ -1,16 +1,14 @@
 # 🛠️ Tools Installation Checklist (with Version Checks)
 
-This document tracks the progress of my SFAL/VSD tool installation as per the provided guidelines.
+This document tracks the progress of my SFAL/VSD tool installation 
 
 ---
 
 ## ✅ Task 1 – GitHub Setup
 - [ ] **Create GitHub Repository**
-  - Repo Name: `vsd-tool-installation` (or similar)
+  - Repo Name: `vsd-tool-installation` 
 - [ ] **Add Summary of Previous Video**
   - Added a `README.md` or markdown file summarizing Day 0 video  
-- [ ] **Commit and Push Changes**
-  - Verified that the repo is public and accessible
 
 ---
 
@@ -24,7 +22,7 @@ This document tracks the progress of my SFAL/VSD tool installation as per the pr
 
 ---
 
-### 1️⃣ Yosys
+1️⃣ Yosys
 **Install:**
 ```bash
 sudo apt-get update
